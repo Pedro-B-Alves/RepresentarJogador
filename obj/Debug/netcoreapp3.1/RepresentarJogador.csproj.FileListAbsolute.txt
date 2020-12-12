@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\bin\Debug\netcoreapp3.1\RepresentarJogador.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\bin\Debug\netcoreapp3.1\RepresentarJogador.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\bin\Debug\netcoreapp3.1\RepresentarJogador.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\bin\Debug\netcoreapp3.1\RepresentarJogador.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\bin\Debug\netcoreapp3.1\RepresentarJogador.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\bin\Debug\netcoreapp3.1\RepresentarJogador.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\RepresentarJogador\obj\Debug\netcoreapp3.1\RepresentarJogador.genruntimeconfig.cache
