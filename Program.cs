@@ -12,7 +12,7 @@ namespace RepresentarJogador
             jogador.Nome = Console.ReadLine();
             Console.WriteLine("Digite a posição do jogador [defesa] [meio-campo] [atacante]");
             jogador.Posicao = Console.ReadLine();
-            Console.WriteLine("Digite a data de nascimento do jogador [ano, mês, dia]");
+            Console.WriteLine("Digite a data de nascimento do jogador [ano-mês-dia horas:minutos:segundos]");
             jogador.DataDeNascimento = DateTime.Parse(Console.ReadLine());
             Console.WriteLine("Digite a nascionalidade do jogador");
             jogador.Nacionalidade = Console.ReadLine();
